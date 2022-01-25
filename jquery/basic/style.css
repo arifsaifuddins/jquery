@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header {
+  width: 100vw;
+  height: 80px;
+  background-color: #444;
+  color: #aaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.color {
+  color: #aaa;
+  background-color: #444;
+  height: 30px;
+}
+
+.box {
+  width: 400px;
+  height: 100px;
+  background-color: #444;
+  color: #aaa;
+  font-size: 50px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.ellipe {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #f00;
+  position: relative;
+}
