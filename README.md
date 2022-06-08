@@ -1,2 +1,1 @@
-# frameworks-course
-learning
+# jquery-course
